@@ -1,0 +1,16 @@
+## Visual Studio
+.vs/
+*.user
+*.userosscache
+*.sln.docstates
+*.suo
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# User-specific files
+*.rsuser
+*.userprefs
